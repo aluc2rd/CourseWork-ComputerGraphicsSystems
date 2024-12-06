@@ -1,0 +1,203 @@
+C:\Users\Равиль\Desktop\MainThread\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\Равиль\Desktop\MainThread\MainThread\bin\Debug\MyCourse.exe
+C:\Users\Равиль\Desktop\MainThread\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Debug\Curs.csproj.GenerateResource.Cache
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Debug\MyCourse.exe
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Debug\MyCourse.pdb
+C:\Курсовой по ГСК\MainThread\MainThread\bin\Debug\MyCourse.exe.config
+C:\Курсовой по ГСК\MainThread\MainThread\obj\Debug\MyCourse.exe
+C:\Курсовой по ГСК\MainThread\MainThread\obj\Debug\MyCourse.pdb
+C:\Курсовой по ГСК\MainThread\MainThread\bin\Debug\MyCourse.exe
+C:\Курсовой по ГСК\MainThread\MainThread\bin\Debug\MyCourse.pdb
+C:\Курсовой по ГСК\MainThread\MainThread\obj\Debug\Std.Form1.resources
+C:\Курсовой по ГСК\MainThread\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Курсовой по ГСК\MainThread\MainThread\obj\Debug\Curs.csproj.GenerateResource.Cache
+C:\Users\Равиль\Desktop\NC\MainThread\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\Равиль\Desktop\NC\MainThread\MainThread\obj\Debug\MyCourse.exe
+C:\Users\Равиль\Desktop\NC\MainThread\MainThread\obj\Debug\MyCourse.pdb
+C:\Users\Равиль\Desktop\NC\MainThread\MainThread\bin\Debug\MyCourse.exe
+C:\Users\Равиль\Desktop\NC\MainThread\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\Равиль\Desktop\NC\MainThread\MainThread\obj\Debug\Curs.csprojResolveAssemblyReference.cache
+C:\Users\Равиль\Desktop\NC\MainThread\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\Равиль\Desktop\NC\MainThread\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\Равиль\Desktop\NC\MainThread\MainThread\obj\Debug\Curs.csproj.GenerateResource.Cache
+C:\Курсовой по ГСК\Новая папка\MainThread\MainThread\bin\Debug\MyCourse.exe.config
+C:\Курсовой по ГСК\Новая папка\MainThread\MainThread\obj\Debug\MyCourse.exe
+C:\Курсовой по ГСК\Новая папка\MainThread\MainThread\obj\Debug\MyCourse.pdb
+C:\Курсовой по ГСК\Новая папка\MainThread\MainThread\bin\Debug\MyCourse.exe
+C:\Курсовой по ГСК\Новая папка\MainThread\MainThread\bin\Debug\MyCourse.pdb
+C:\Курсовой по ГСК\Новая папка\MainThread\MainThread\obj\Debug\Curs.csprojResolveAssemblyReference.cache
+C:\Курсовой по ГСК\Новая папка\MainThread\MainThread\obj\Debug\Std.Form1.resources
+C:\Курсовой по ГСК\Новая папка\MainThread\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Курсовой по ГСК\Новая папка\MainThread\MainThread\obj\Debug\Curs.csproj.GenerateResource.Cache
+C:\Курсовой по ГСК\24\MainThread\MainThread\bin\Debug\MyCourse.exe.config
+C:\Курсовой по ГСК\24\MainThread\MainThread\obj\Debug\MyCourse.exe
+C:\Курсовой по ГСК\24\MainThread\MainThread\obj\Debug\MyCourse.pdb
+C:\Курсовой по ГСК\24\MainThread\MainThread\bin\Debug\MyCourse.exe
+C:\Курсовой по ГСК\24\MainThread\MainThread\bin\Debug\MyCourse.pdb
+C:\Курсовой по ГСК\24\MainThread\MainThread\obj\Debug\Curs.csprojResolveAssemblyReference.cache
+C:\Курсовой по ГСК\24\MainThread\MainThread\obj\Debug\Std.Form1.resources
+C:\Курсовой по ГСК\24\MainThread\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Курсовой по ГСК\24\MainThread\MainThread\obj\Debug\Curs.csproj.GenerateResource.Cache
+C:\Скорая ФАИТА\ГСК\Аникин Евгений(2)\24\MainThread\MainThread\bin\Debug\MyCourse.exe.config
+C:\Скорая ФАИТА\ГСК\Аникин Евгений(2)\24\MainThread\MainThread\obj\Debug\MyCourse.exe
+C:\Скорая ФАИТА\ГСК\Аникин Евгений(2)\24\MainThread\MainThread\obj\Debug\MyCourse.pdb
+C:\Скорая ФАИТА\ГСК\Аникин Евгений(2)\24\MainThread\MainThread\bin\Debug\MyCourse.exe
+C:\Скорая ФАИТА\ГСК\Аникин Евгений(2)\24\MainThread\MainThread\bin\Debug\MyCourse.pdb
+C:\Скорая ФАИТА\ГСК\Аникин Евгений(2)\24\MainThread\MainThread\obj\Debug\Curs.csprojResolveAssemblyReference.cache
+C:\Скорая ФАИТА\ГСК\Аникин Евгений(2)\24\MainThread\MainThread\obj\Debug\Std.Form1.resources
+C:\Скорая ФАИТА\ГСК\Аникин Евгений(2)\24\MainThread\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Скорая ФАИТА\ГСК\Аникин Евгений(2)\24\MainThread\MainThread\obj\Debug\Curs.csproj.GenerateResource.Cache
+C:\Скорая ФАИТА\ГСК\52\MainThread\MainThread\bin\Debug\MyCourse.exe.config
+C:\Скорая ФАИТА\ГСК\52\MainThread\MainThread\obj\Debug\MyCourse.exe
+C:\Скорая ФАИТА\ГСК\52\MainThread\MainThread\obj\Debug\MyCourse.pdb
+C:\Скорая ФАИТА\ГСК\52\MainThread\MainThread\obj\Debug\Curs.csprojResolveAssemblyReference.cache
+C:\Скорая ФАИТА\ГСК\52\MainThread\MainThread\obj\Debug\Std.Form1.resources
+C:\Скорая ФАИТА\ГСК\52\MainThread\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Скорая ФАИТА\ГСК\52\MainThread\MainThread\obj\Debug\Curs.csproj.GenerateResource.Cache
+C:\Скорая ФАИТА\ГСК\52\MainThread\MainThread\bin\Debug\MyCourse.exe
+C:\Скорая ФАИТА\ГСК\52\MainThread\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\52\MainThread\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\52\MainThread\MainThread\obj\Debug\MyCourse.exe
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\52\MainThread\MainThread\obj\Debug\MyCourse.pdb
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\52\MainThread\MainThread\bin\Debug\MyCourse.exe
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\52\MainThread\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\52\MainThread\MainThread\obj\Debug\Curs.csprojResolveAssemblyReference.cache
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\52\MainThread\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\52\MainThread\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\52\MainThread\MainThread\obj\Debug\Curs.csproj.GenerateResource.Cache
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\37\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\37\MainThread\obj\Debug\Curs.csproj.GenerateResource.Cache
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\37\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\37\MainThread\bin\Debug\MyCourse.exe
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\37\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\37\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\37\MainThread\obj\Debug\MyCourse.exe
+C:\Users\Равиль\Desktop\22\ГСК\Варианты\37\MainThread\obj\Debug\MyCourse.pdb
+C:\Users\Ravil\Downloads\37\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\Ravil\Downloads\37\MainThread\bin\Debug\MyCourse.exe
+C:\Users\Ravil\Downloads\37\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\Ravil\Downloads\37\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\Ravil\Downloads\37\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\Ravil\Downloads\37\MainThread\obj\Debug\Curs.csproj.GenerateResource.cache
+C:\Users\Ravil\Downloads\37\MainThread\obj\Debug\Curs.csproj.CoreCompileInputs.cache
+C:\Users\Ravil\Downloads\37\MainThread\obj\Debug\MyCourse.exe
+C:\Users\Ravil\Downloads\37\MainThread\obj\Debug\MyCourse.pdb
+C:\архив\лабы универ\ГСК\Варианты\60\MainThread\bin\Debug\MyCourse.exe.config
+C:\архив\лабы универ\ГСК\Варианты\60\MainThread\bin\Debug\MyCourse.exe
+C:\архив\лабы универ\ГСК\Варианты\60\MainThread\bin\Debug\MyCourse.pdb
+C:\архив\лабы универ\ГСК\Варианты\60\MainThread\obj\Debug\Std.Form1.resources
+C:\архив\лабы универ\ГСК\Варианты\60\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\архив\лабы универ\ГСК\Варианты\60\MainThread\obj\Debug\Curs.csproj.GenerateResource.cache
+C:\архив\лабы универ\ГСК\Варианты\60\MainThread\obj\Debug\Curs.csproj.CoreCompileInputs.cache
+C:\архив\лабы универ\ГСК\Варианты\60\MainThread\obj\Debug\MyCourse.exe
+C:\архив\лабы универ\ГСК\Варианты\60\MainThread\obj\Debug\MyCourse.pdb
+C:\архив\лабы универ\ГСК\Варианты\60\MainThread\obj\Debug\Curs.csprojAssemblyReference.cache
+C:\архив\лабы универ\ГСК\Варианты\4 Новый\MainThread\bin\Debug\MyCourse.exe.config
+C:\архив\лабы универ\ГСК\Варианты\4 Новый\MainThread\bin\Debug\MyCourse.exe
+C:\архив\лабы универ\ГСК\Варианты\4 Новый\MainThread\bin\Debug\MyCourse.pdb
+C:\архив\лабы универ\ГСК\Варианты\4 Новый\MainThread\obj\Debug\Curs.csprojAssemblyReference.cache
+C:\архив\лабы универ\ГСК\Варианты\4 Новый\MainThread\obj\Debug\Std.Form1.resources
+C:\архив\лабы универ\ГСК\Варианты\4 Новый\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\архив\лабы универ\ГСК\Варианты\4 Новый\MainThread\obj\Debug\Curs.csproj.GenerateResource.cache
+C:\архив\лабы универ\ГСК\Варианты\4 Новый\MainThread\obj\Debug\Curs.csproj.CoreCompileInputs.cache
+C:\архив\лабы универ\ГСК\Варианты\4 Новый\MainThread\obj\Debug\MyCourse.exe
+C:\архив\лабы универ\ГСК\Варианты\4 Новый\MainThread\obj\Debug\MyCourse.pdb
+C:\архив\лабы универ\ГСК\Варианты\12 Новый\MainThread\bin\Debug\MyCourse.exe.config
+C:\архив\лабы универ\ГСК\Варианты\12 Новый\MainThread\bin\Debug\MyCourse.exe
+C:\архив\лабы универ\ГСК\Варианты\12 Новый\MainThread\bin\Debug\MyCourse.pdb
+C:\архив\лабы универ\ГСК\Варианты\12 Новый\MainThread\obj\Debug\Curs.csprojAssemblyReference.cache
+C:\архив\лабы универ\ГСК\Варианты\12 Новый\MainThread\obj\Debug\Std.Form1.resources
+C:\архив\лабы универ\ГСК\Варианты\12 Новый\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\архив\лабы универ\ГСК\Варианты\12 Новый\MainThread\obj\Debug\Curs.csproj.GenerateResource.cache
+C:\архив\лабы универ\ГСК\Варианты\12 Новый\MainThread\obj\Debug\Curs.csproj.CoreCompileInputs.cache
+C:\архив\лабы универ\ГСК\Варианты\12 Новый\MainThread\obj\Debug\MyCourse.exe
+C:\архив\лабы универ\ГСК\Варианты\12 Новый\MainThread\obj\Debug\MyCourse.pdb
+E:\MainThread\bin\Debug\MyCourse.exe.config
+E:\MainThread\obj\Debug\MyCourse.exe
+E:\MainThread\obj\Debug\MyCourse.pdb
+G:\Курсовая работа Семенихина С.М. 12 вариант\MainThread\bin\Debug\MyCourse.exe.config
+G:\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\MyCourse.exe
+G:\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\MyCourse.pdb
+C:\Users\zhelo\OneDrive\Рабочий стол\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\zhelo\OneDrive\Рабочий стол\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\bin\Debug\MyCourse.exe
+C:\Users\zhelo\OneDrive\Рабочий стол\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\zhelo\OneDrive\Рабочий стол\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\Curs.csproj.AssemblyReference.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\zhelo\OneDrive\Рабочий стол\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\zhelo\OneDrive\Рабочий стол\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\Curs.csproj.GenerateResource.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\Curs.csproj.CoreCompileInputs.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\MyCourse.exe
+C:\Users\zhelo\OneDrive\Рабочий стол\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\MyCourse.pdb
+C:\Users\zhelo\OneDrive\Документы\спту\3 кур\1 сем\Графические системы компьютеров\Курсовые работы 2018 года\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\zhelo\OneDrive\Документы\спту\3 кур\1 сем\Графические системы компьютеров\Курсовые работы 2018 года\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\bin\Debug\MyCourse.exe
+C:\Users\zhelo\OneDrive\Документы\спту\3 кур\1 сем\Графические системы компьютеров\Курсовые работы 2018 года\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\zhelo\OneDrive\Документы\спту\3 кур\1 сем\Графические системы компьютеров\Курсовые работы 2018 года\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\Curs.csproj.AssemblyReference.cache
+C:\Users\zhelo\OneDrive\Документы\спту\3 кур\1 сем\Графические системы компьютеров\Курсовые работы 2018 года\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\zhelo\OneDrive\Документы\спту\3 кур\1 сем\Графические системы компьютеров\Курсовые работы 2018 года\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\zhelo\OneDrive\Документы\спту\3 кур\1 сем\Графические системы компьютеров\Курсовые работы 2018 года\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\Curs.csproj.GenerateResource.cache
+C:\Users\zhelo\OneDrive\Документы\спту\3 кур\1 сем\Графические системы компьютеров\Курсовые работы 2018 года\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\Curs.csproj.CoreCompileInputs.cache
+C:\Users\zhelo\OneDrive\Документы\спту\3 кур\1 сем\Графические системы компьютеров\Курсовые работы 2018 года\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\MyCourse.exe
+C:\Users\zhelo\OneDrive\Документы\спту\3 кур\1 сем\Графические системы компьютеров\Курсовые работы 2018 года\GSK\Курсовая работа Семенихина С.М. 12 вариант\MainThread\obj\Debug\MyCourse.pdb
+C:\Users\zhelo\OneDrive\Рабочий стол\65 ГСК\Curs\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\zhelo\OneDrive\Рабочий стол\65 ГСК\Curs\MainThread\bin\Debug\MyCourse.exe
+C:\Users\zhelo\OneDrive\Рабочий стол\65 ГСК\Curs\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\zhelo\OneDrive\Рабочий стол\65 ГСК\Curs\MainThread\obj\Debug\Curs.csproj.AssemblyReference.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\65 ГСК\Curs\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\zhelo\OneDrive\Рабочий стол\65 ГСК\Curs\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\zhelo\OneDrive\Рабочий стол\65 ГСК\Curs\MainThread\obj\Debug\Curs.csproj.GenerateResource.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\65 ГСК\Curs\MainThread\obj\Debug\Curs.csproj.CoreCompileInputs.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\65 ГСК\Curs\MainThread\obj\Debug\MyCourse.exe
+C:\Users\zhelo\OneDrive\Рабочий стол\65 ГСК\Curs\MainThread\obj\Debug\MyCourse.pdb
+C:\Users\anton\OneDrive\Рабочий стол\Curs\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\anton\OneDrive\Рабочий стол\Curs\MainThread\bin\Debug\MyCourse.exe
+C:\Users\anton\OneDrive\Рабочий стол\Curs\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\anton\OneDrive\Рабочий стол\Curs\MainThread\obj\Debug\Curs.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\Curs\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\anton\OneDrive\Рабочий стол\Curs\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\anton\OneDrive\Рабочий стол\Curs\MainThread\obj\Debug\Curs.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Рабочий стол\Curs\MainThread\obj\Debug\Curs.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\Curs\MainThread\obj\Debug\MyCourse.exe
+C:\Users\anton\OneDrive\Рабочий стол\Curs\MainThread\obj\Debug\MyCourse.pdb
+C:\Users\zhelo\OneDrive\Рабочий стол\Curs\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\zhelo\OneDrive\Рабочий стол\Curs\MainThread\bin\Debug\MyCourse.exe
+C:\Users\zhelo\OneDrive\Рабочий стол\Curs\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\zhelo\OneDrive\Рабочий стол\Curs\MainThread\obj\Debug\Curs.csproj.AssemblyReference.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\Curs\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\zhelo\OneDrive\Рабочий стол\Curs\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\zhelo\OneDrive\Рабочий стол\Curs\MainThread\obj\Debug\Curs.csproj.GenerateResource.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\Curs\MainThread\obj\Debug\Curs.csproj.CoreCompileInputs.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\Curs\MainThread\obj\Debug\MyCourse.exe
+C:\Users\zhelo\OneDrive\Рабочий стол\Curs\MainThread\obj\Debug\MyCourse.pdb
+C:\Users\zhelo\OneDrive\Рабочий стол\93 ГСК\Curs\MainThread\obj\Debug\Curs.csproj.AssemblyReference.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\93 ГСК\Curs\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\zhelo\OneDrive\Рабочий стол\93 ГСК\Curs\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\zhelo\OneDrive\Рабочий стол\93 ГСК\Curs\MainThread\obj\Debug\Curs.csproj.GenerateResource.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\93 ГСК\Curs\MainThread\obj\Debug\Curs.csproj.CoreCompileInputs.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\93 ГСК\Curs\MainThread\obj\Debug\MyCourse.exe
+C:\Users\zhelo\OneDrive\Рабочий стол\93 ГСК\Curs\MainThread\obj\Debug\MyCourse.pdb
+C:\Users\zhelo\OneDrive\Рабочий стол\93 ГСК\Curs\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\zhelo\OneDrive\Рабочий стол\93 ГСК\Curs\MainThread\bin\Debug\MyCourse.exe
+C:\Users\zhelo\OneDrive\Рабочий стол\93 ГСК\Curs\MainThread\bin\Debug\MyCourse.pdb
+E:\Учёба\Курс №3\Семестр №1\Графические системы компьютеров\Курсовая работа\74 ГСК\Curs\MainThread\bin\Debug\MyCourse.exe.config
+E:\Учёба\Курс №3\Семестр №1\Графические системы компьютеров\Курсовая работа\74 ГСК\Curs\MainThread\bin\Debug\MyCourse.exe
+E:\Учёба\Курс №3\Семестр №1\Графические системы компьютеров\Курсовая работа\74 ГСК\Curs\MainThread\bin\Debug\MyCourse.pdb
+E:\Учёба\Курс №3\Семестр №1\Графические системы компьютеров\Курсовая работа\74 ГСК\Curs\MainThread\obj\Debug\Curs.csproj.AssemblyReference.cache
+E:\Учёба\Курс №3\Семестр №1\Графические системы компьютеров\Курсовая работа\74 ГСК\Curs\MainThread\obj\Debug\Std.Form1.resources
+E:\Учёба\Курс №3\Семестр №1\Графические системы компьютеров\Курсовая работа\74 ГСК\Curs\MainThread\obj\Debug\Std.Properties.Resources.resources
+E:\Учёба\Курс №3\Семестр №1\Графические системы компьютеров\Курсовая работа\74 ГСК\Curs\MainThread\obj\Debug\Curs.csproj.GenerateResource.cache
+E:\Учёба\Курс №3\Семестр №1\Графические системы компьютеров\Курсовая работа\74 ГСК\Curs\MainThread\obj\Debug\Curs.csproj.CoreCompileInputs.cache
+E:\Учёба\Курс №3\Семестр №1\Графические системы компьютеров\Курсовая работа\74 ГСК\Curs\MainThread\obj\Debug\MyCourse.exe
+E:\Учёба\Курс №3\Семестр №1\Графические системы компьютеров\Курсовая работа\74 ГСК\Curs\MainThread\obj\Debug\MyCourse.pdb
+C:\74 ГСК\Curs\MainThread\bin\Debug\MyCourse.exe.config
+C:\74 ГСК\Curs\MainThread\bin\Debug\MyCourse.exe
+C:\74 ГСК\Curs\MainThread\bin\Debug\MyCourse.pdb
+C:\74 ГСК\Curs\MainThread\obj\Debug\Curs.csproj.AssemblyReference.cache
+C:\74 ГСК\Curs\MainThread\obj\Debug\Std.Form1.resources
+C:\74 ГСК\Curs\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\74 ГСК\Curs\MainThread\obj\Debug\Curs.csproj.GenerateResource.cache
+C:\74 ГСК\Curs\MainThread\obj\Debug\Curs.csproj.CoreCompileInputs.cache
+C:\74 ГСК\Curs\MainThread\obj\Debug\MyCourse.exe
+C:\74 ГСК\Curs\MainThread\obj\Debug\MyCourse.pdb

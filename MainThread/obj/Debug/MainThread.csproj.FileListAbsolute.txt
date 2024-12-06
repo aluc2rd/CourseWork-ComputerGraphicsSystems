@@ -1,0 +1,91 @@
+D:\GSK\MainThread\MainThread\bin\Debug\MainThread.exe.config
+D:\GSK\MainThread\MainThread\bin\Debug\MainThread.exe
+D:\GSK\MainThread\MainThread\bin\Debug\MainThread.pdb
+D:\GSK\MainThread\MainThread\obj\Debug\MainThread.Form1.resources
+D:\GSK\MainThread\MainThread\obj\Debug\MainThread.Properties.Resources.resources
+D:\GSK\MainThread\MainThread\obj\Debug\MainThread.csproj.GenerateResource.Cache
+D:\GSK\MainThread\MainThread\obj\Debug\MainThread.exe
+D:\GSK\MainThread\MainThread\obj\Debug\MainThread.pdb
+C:\Users\Федор\Downloads\MainThread\MainThread\bin\Debug\MainThread.exe.config
+C:\Users\Федор\Downloads\MainThread\MainThread\obj\Debug\MainThread.exe
+C:\Users\Федор\Downloads\MainThread\MainThread\obj\Debug\MainThread.pdb
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Debug\MainThread.csproj.GenerateResource.Cache
+C:\Users\Федор\Documents\MainThread\MainThread\MainThread\bin\Debug\MainThread.exe.config
+C:\Users\Федор\Documents\MainThread\MainThread\MainThread\obj\Debug\MainThread.exe
+C:\Users\Федор\Documents\MainThread\MainThread\MainThread\obj\Debug\MainThread.pdb
+C:\Users\Федор\Documents\MainThread\MainThread\MainThread\bin\Debug\MainThread.exe
+C:\Users\Федор\Documents\MainThread\MainThread\MainThread\bin\Debug\MainThread.pdb
+C:\Users\Федор\Documents\MainThread\MainThread\MainThread\obj\Debug\MainThread.csprojResolveAssemblyReference.cache
+C:\Users\Федор\Documents\MainThread\MainThread\MainThread\obj\Debug\MainThread.Form1.resources
+C:\Users\Федор\Documents\MainThread\MainThread\MainThread\obj\Debug\MainThread.Properties.Resources.resources
+C:\Users\Федор\Documents\MainThread\MainThread\MainThread\obj\Debug\MainThread.csproj.GenerateResource.Cache
+C:\Users\Равиль\Desktop\MainThread\MainThread\MainThread\bin\Debug\MainThread.exe.config
+C:\Users\Равиль\Desktop\MainThread\MainThread\MainThread\obj\Debug\MainThread.exe
+C:\Users\Равиль\Desktop\MainThread\MainThread\MainThread\obj\Debug\MainThread.pdb
+C:\Users\Равиль\Desktop\MainThread\MainThread\MainThread\bin\Debug\MainThread.exe
+C:\Users\Равиль\Desktop\MainThread\MainThread\MainThread\bin\Debug\MainThread.pdb
+C:\Users\Равиль\Desktop\MainThread\MainThread\MainThread\obj\Debug\MainThread.csprojResolveAssemblyReference.cache
+C:\Users\Равиль\Desktop\MainThread\MainThread\MainThread\obj\Debug\MainThread.Form1.resources
+C:\Users\Равиль\Desktop\MainThread\MainThread\MainThread\obj\Debug\MainThread.Properties.Resources.resources
+C:\Users\Равиль\Desktop\MainThread\MainThread\MainThread\obj\Debug\MainThread.csproj.GenerateResource.Cache
+C:\Users\Федор\Documents\MainThread(2)\MainThread\MainThread\bin\Debug\MainThread.exe.config
+C:\Users\Федор\Documents\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.exe
+C:\Users\Федор\Documents\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.pdb
+C:\Users\Федор\Documents\MainThread(2)\MainThread\MainThread\bin\Debug\MainThread.exe
+C:\Users\Федор\Documents\MainThread(2)\MainThread\MainThread\bin\Debug\MainThread.pdb
+C:\Users\Федор\Documents\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.csprojResolveAssemblyReference.cache
+C:\Users\Федор\Documents\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.Form1.resources
+C:\Users\Федор\Documents\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.Properties.Resources.resources
+C:\Users\Федор\Documents\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.csproj.GenerateResource.Cache
+C:\Users\Dominike\Desktop\MainThread(2)\MainThread\MainThread\bin\Debug\MainThread.exe.config
+C:\Users\Dominike\Desktop\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.exe
+C:\Users\Dominike\Desktop\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.pdb
+C:\Users\Dominike\Desktop\MainThread(2)\MainThread\MainThread\bin\Debug\MainThread.exe
+C:\Users\Dominike\Desktop\MainThread(2)\MainThread\MainThread\bin\Debug\MainThread.pdb
+C:\Users\Dominike\Desktop\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.csprojResolveAssemblyReference.cache
+C:\Users\Dominike\Desktop\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.Form1.resources
+C:\Users\Dominike\Desktop\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.Properties.Resources.resources
+C:\Users\Dominike\Desktop\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.csproj.GenerateResource.Cache
+C:\Users\Равиль\Desktop\MainThread(2)\MainThread\MainThread\bin\Debug\MainThread.exe.config
+C:\Users\Равиль\Desktop\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.exe
+C:\Users\Равиль\Desktop\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.pdb
+C:\Users\Равиль\Desktop\MainThread(2)\MainThread\MainThread\bin\Debug\MainThread.exe
+C:\Users\Равиль\Desktop\MainThread(2)\MainThread\MainThread\bin\Debug\MainThread.pdb
+C:\Users\Равиль\Desktop\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.Form1.resources
+C:\Users\Равиль\Desktop\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.Properties.Resources.resources
+C:\Users\Равиль\Desktop\MainThread(2)\MainThread\MainThread\obj\Debug\MainThread.csproj.GenerateResource.Cache
+C:\Users\Равиль\Desktop\релиз\MainThread\MainThread\bin\Debug\MainThread.exe.config
+C:\Users\Равиль\Desktop\релиз\MainThread\MainThread\obj\Debug\MainThread.exe
+C:\Users\Равиль\Desktop\релиз\MainThread\MainThread\obj\Debug\MainThread.pdb
+C:\Users\Равиль\Desktop\релиз\MainThread\MainThread\obj\Debug\MainThread.csprojResolveAssemblyReference.cache
+C:\Users\Равиль\Desktop\релиз\MainThread\MainThread\obj\Debug\MainThread.Form1.resources
+C:\Users\Равиль\Desktop\релиз\MainThread\MainThread\obj\Debug\MainThread.Properties.Resources.resources
+C:\Users\Равиль\Desktop\релиз\MainThread\MainThread\obj\Debug\MainThread.csproj.GenerateResource.Cache
+C:\Users\Равиль\Desktop\релиз\MainThread\MainThread\bin\Debug\MainThread.exe
+C:\Users\Равиль\Desktop\релиз\MainThread\MainThread\bin\Debug\MainThread.pdb
+C:\Users\Равиль\Desktop\релиз — копия\MainThread\MainThread\bin\Debug\MainThread.exe.config
+C:\Users\Равиль\Desktop\релиз — копия\MainThread\MainThread\obj\Debug\MainThread.exe
+C:\Users\Равиль\Desktop\релиз — копия\MainThread\MainThread\obj\Debug\MainThread.pdb
+C:\Users\Равиль\Desktop\релиз — копия\MainThread\MainThread\bin\Debug\MainThread.exe
+C:\Users\Равиль\Desktop\релиз — копия\MainThread\MainThread\bin\Debug\MainThread.pdb
+C:\Users\Равиль\Desktop\релиз — копия\MainThread\MainThread\obj\Debug\MainThread.csprojResolveAssemblyReference.cache
+C:\Users\Равиль\Desktop\релиз — копия\MainThread\MainThread\obj\Debug\MainThread.Form1.resources
+C:\Users\Равиль\Desktop\релиз — копия\MainThread\MainThread\obj\Debug\MainThread.Properties.Resources.resources
+C:\Users\Равиль\Desktop\релиз — копия\MainThread\MainThread\obj\Debug\MainThread.csproj.GenerateResource.Cache
+C:\Users\Федор\Documents\MainThread\MainThread\bin\Debug\MainThread.exe.config
+C:\Users\Федор\Documents\MainThread\MainThread\obj\Debug\MainThread.exe
+C:\Users\Федор\Documents\MainThread\MainThread\obj\Debug\MainThread.pdb
+C:\Users\Федор\Documents\MainThread\MainThread\bin\Debug\MainThread.exe
+C:\Users\Федор\Documents\MainThread\MainThread\bin\Debug\MainThread.pdb
+C:\Users\Федор\Documents\MainThread\MainThread\obj\Debug\MainThread.csprojResolveAssemblyReference.cache
+C:\Users\Федор\Documents\MainThread\MainThread\obj\Debug\MainThread.Form1.resources
+C:\Users\Федор\Documents\MainThread\MainThread\obj\Debug\MainThread.Properties.Resources.resources
+C:\Users\Федор\Documents\MainThread\MainThread\obj\Debug\MainThread.csproj.GenerateResource.Cache
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Debug\MainThread.csprojResolveAssemblyReference.cache
+C:\Users\Равиль\Desktop\MainThread\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\Равиль\Desktop\MainThread\MainThread\bin\Debug\MyCourse.exe
+C:\Users\Равиль\Desktop\MainThread\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Debug\MyCourse.exe
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Debug\MyCourse.pdb

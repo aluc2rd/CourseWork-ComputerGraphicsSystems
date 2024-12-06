@@ -1,0 +1,17 @@
+C:\Users\Равиль\Desktop\MainThread\MainThread\bin\Release\MyCourse.exe.config
+C:\Users\Равиль\Desktop\MainThread\MainThread\bin\Release\MyCourse.exe
+C:\Users\Равиль\Desktop\MainThread\MainThread\bin\Release\MyCourse.pdb
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Release\Std.Form1.resources
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Release\Std.Properties.Resources.resources
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Release\Curs.csproj.GenerateResource.Cache
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Release\MyCourse.exe
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Release\MyCourse.pdb
+C:\Users\Равиль\Desktop\MainThread\MainThread\obj\Release\Curs.csprojResolveAssemblyReference.cache
+C:\Курсовой по ГСК\MainThread\MainThread\bin\Release\MyCourse.exe.config
+C:\Курсовой по ГСК\MainThread\MainThread\obj\Release\MyCourse.exe
+C:\Курсовой по ГСК\MainThread\MainThread\obj\Release\MyCourse.pdb
+C:\Курсовой по ГСК\MainThread\MainThread\bin\Release\MyCourse.exe
+C:\Курсовой по ГСК\MainThread\MainThread\bin\Release\MyCourse.pdb
+C:\Курсовой по ГСК\MainThread\MainThread\obj\Release\Std.Form1.resources
+C:\Курсовой по ГСК\MainThread\MainThread\obj\Release\Std.Properties.Resources.resources
+C:\Курсовой по ГСК\MainThread\MainThread\obj\Release\Curs.csproj.GenerateResource.Cache
